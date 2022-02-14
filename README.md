@@ -1,6 +1,6 @@
 # Android Ürün Tanıtımı
 
-Bu uygulama; bir şirketin ürün tanıtımlarını yaparak, kullanıcıdan gelen siparişleri servis kanalıyla alır ve ürünü müşteriye gönderir.
+Bu uygulama; bir şirketin ürünlerini, kayıtlı kullanıcılara servis üzerinden listeler. Kullanıcılar, ürün listesi içinden istedikleri ürünü seçip, detay sayfalarında sipariş verebilirler. Tüm servis bağlantısı aşamalarında Retrofit kütüphanesinden yardım alınır.
 
 | Kullanıcı Adı | Şifre |
 | ------------- | ------------- |
